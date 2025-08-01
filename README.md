@@ -13,5 +13,5 @@ How To Install:
 Installing Database:
 1. Open the SQL Server Management Studio
 2. Connect with u server
-3. Clik "New Query"
+3. Click "New Query"
 4. And paste the script 
