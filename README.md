@@ -8,7 +8,7 @@ How To Install:
 7. Select the folder
 8. Klik project
 9. Choose "Manage NuGet Packages"
-10. Search "iTextSharp" by iText Software
+10. Search "iTextSharp" by iText Software and install
 
 Installing Database:
 1. Open the SQL Server Management Studio
