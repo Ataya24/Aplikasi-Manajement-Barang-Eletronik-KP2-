@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ataya\\source\\repos\\KP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|c:\\users\\ataya\\source\\repos\\kp2\\kp2\\supplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\supplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\RemoveUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\RemoveUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\goodsinhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\goodsinhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsOut.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\GoodsOut.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginAdmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\LoginAdmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AddUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\AddUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\admindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\admindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\current stock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\current stock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\crud_product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\crud_product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\Cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\goodsinhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\goodsinhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\supplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\supplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\admindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\admindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\Dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\RemoveUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\RemoveUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AddUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\AddUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\crud_product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\crud_product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\current stock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\current stock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\goodsout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\goodsout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginCashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\LoginCashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\logincashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\logincashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\kp2\\loginadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:kp2\\loginadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89A85A65-5342-4E37-9EF2-4A9F31BA924C}|KP2\\KP2.vbproj|solutionrelative:KP2\\Dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoodsInHistory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsInHistory.vb",
+              "RelativeDocumentMoniker": "KP2\\GoodsInHistory.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsInHistory.vb [Design]",
+              "RelativeToolTip": "KP2\\GoodsInHistory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T01:31:56.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoodsOut.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsOut.vb",
+              "RelativeDocumentMoniker": "KP2\\GoodsOut.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsOut.vb [Design]",
+              "RelativeToolTip": "KP2\\GoodsOut.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T16:45:51.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveUser.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\RemoveUser.vb",
+              "RelativeDocumentMoniker": "KP2\\RemoveUser.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\RemoveUser.vb [Design]",
+              "RelativeToolTip": "KP2\\RemoveUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T16:51:07.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Supplier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Supplier.vb",
+              "RelativeDocumentMoniker": "KP2\\Supplier.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Supplier.vb [Design]",
+              "RelativeToolTip": "KP2\\Supplier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T16:51:07.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginAdmin.vb",
+              "RelativeDocumentMoniker": "KP2\\LoginAdmin.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginAdmin.vb [Design]",
+              "RelativeToolTip": "KP2\\LoginAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T01:32:18.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUser.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AddUser.vb",
+              "RelativeDocumentMoniker": "KP2\\AddUser.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AddUser.vb [Design]",
+              "RelativeToolTip": "KP2\\AddUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T16:44:03.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AdminDashboard.vb",
+              "RelativeDocumentMoniker": "KP2\\AdminDashboard.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AdminDashboard.vb [Design]",
+              "RelativeToolTip": "KP2\\AdminDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T16:45:32.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Current stock.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Current stock.vb",
+              "RelativeDocumentMoniker": "KP2\\Current stock.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Current stock.vb [Design]",
+              "RelativeToolTip": "KP2\\Current stock.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-18T04:27:03.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUD_Product.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\CRUD_Product.vb",
+              "RelativeDocumentMoniker": "KP2\\CRUD_Product.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\CRUD_Product.vb [Design]",
+              "RelativeToolTip": "KP2\\CRUD_Product.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T16:51:10.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cashier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Cashier.vb",
+              "RelativeDocumentMoniker": "KP2\\Cashier.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Cashier.vb [Design]",
+              "RelativeToolTip": "KP2\\Cashier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T16:47:15.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GoodsInHistory.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsInHistory.vb",
+              "RelativeDocumentMoniker": "KP2\\GoodsInHistory.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsInHistory.vb",
+              "RelativeToolTip": "KP2\\GoodsInHistory.vb",
+              "ViewState": "AgIAAHwAAAAAAAAAAAD4vzwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T06:00:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Dashboard.vb",
+              "RelativeDocumentMoniker": "KP2\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Dashboard.vb [Design]",
+              "RelativeToolTip": "KP2\\Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T01:32:52.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Supplier.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Supplier.vb",
+              "RelativeDocumentMoniker": "KP2\\Supplier.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Supplier.vb",
+              "RelativeToolTip": "KP2\\Supplier.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T23:57:59.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AdminDashboard.vb",
+              "RelativeDocumentMoniker": "KP2\\AdminDashboard.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AdminDashboard.vb",
+              "RelativeToolTip": "KP2\\AdminDashboard.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T14:50:44.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RemoveUser.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\RemoveUser.vb",
+              "RelativeDocumentMoniker": "KP2\\RemoveUser.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\RemoveUser.vb",
+              "RelativeToolTip": "KP2\\RemoveUser.vb",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4v00AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T02:15:41.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddUser.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AddUser.vb",
+              "RelativeDocumentMoniker": "KP2\\AddUser.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\AddUser.vb",
+              "RelativeToolTip": "KP2\\AddUser.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T01:56:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cashier.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Cashier.vb",
+              "RelativeDocumentMoniker": "KP2\\Cashier.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Cashier.vb",
+              "RelativeToolTip": "KP2\\Cashier.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T13:53:07.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CRUD_Product.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\CRUD_Product.vb",
+              "RelativeDocumentMoniker": "KP2\\CRUD_Product.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\CRUD_Product.vb",
+              "RelativeToolTip": "KP2\\CRUD_Product.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T04:35:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Current stock.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Current stock.vb",
+              "RelativeDocumentMoniker": "KP2\\Current stock.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Current stock.vb",
+              "RelativeToolTip": "KP2\\Current stock.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T13:52:52.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GoodsOut.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsOut.vb",
+              "RelativeDocumentMoniker": "KP2\\GoodsOut.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\GoodsOut.vb",
+              "RelativeToolTip": "KP2\\GoodsOut.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T13:52:34.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginCashier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginCashier.vb",
+              "RelativeDocumentMoniker": "KP2\\LoginCashier.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginCashier.vb [Design]",
+              "RelativeToolTip": "KP2\\LoginCashier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T01:32:27.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginCashier.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginCashier.vb",
+              "RelativeDocumentMoniker": "KP2\\LoginCashier.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginCashier.vb",
+              "RelativeToolTip": "KP2\\LoginCashier.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T13:51:46.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginAdmin.vb",
+              "RelativeDocumentMoniker": "KP2\\LoginAdmin.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\LoginAdmin.vb",
+              "RelativeToolTip": "KP2\\LoginAdmin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T13:51:30.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dashboard.vb",
+              "DocumentMoniker": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Dashboard.vb",
+              "RelativeDocumentMoniker": "KP2\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\Ataya\\source\\repos\\KP2\\KP2\\Dashboard.vb",
+              "RelativeToolTip": "KP2\\Dashboard.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T07:25:09.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
